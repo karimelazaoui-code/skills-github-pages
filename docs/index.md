@@ -1,4 +1,25 @@
-theme: minima
-title: {{ login }}'s personal blog
-description: This is where I share cool stuff about my life
-author: {{ login }}
+---
+title: Bienvenue
+---
+
+# Bonjour 👋
+
+Bienvenue sur mon site GitHub Pages.
+
+## À propos
+
+Je suis Karim, ingénieur réseau et sécurité.
+
+### Compétences
+
+- Fortinet
+- Palo Alto
+- NSX
+- Kubernetes
+- Ansible
+- Terraform
+
+### Contact
+
+Retrouvez-moi sur GitHub :
+https://github.com/karimelazaoui-code
