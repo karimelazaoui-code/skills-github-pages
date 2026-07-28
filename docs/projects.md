@@ -9,3 +9,10 @@ permalink: /projects/
 - UCP :)
 - CAV
 - NGP
+
+## Navigation
+
+- [À propos](about/)
+- [Mes projets](projects/)
+- [Blog](blog/)
+- [Contact](contact/)
