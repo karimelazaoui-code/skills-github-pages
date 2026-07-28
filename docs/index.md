@@ -23,3 +23,12 @@ Je suis Karim, ingénieur réseau et sécurité.
 
 Retrouvez-moi sur GitHub :
 https://github.com/karimelazaoui-code
+
+### navigation 
+
+## Navigation
+
+- [À propos](about/)
+- [Mes projets](projects/)
+- [Blog](blog/)
+- [Contact](contact/)
