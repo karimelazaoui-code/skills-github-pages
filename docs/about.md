@@ -20,3 +20,6 @@ Bienvenue sur mon premier site GitHub Pages.
 - [Mes projets](projects/)
 - [Blog](blog/)
 - [Contact](contact/)
+
+## Test Action 
+Ce texte sert à tester GitHub Actions.
